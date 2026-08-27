@@ -89,13 +89,13 @@ alphabet-investment-analysis/
 │
 ├── README.md
 │
-└── Alphabet_Investment_Analysis.ipynb
+└── AlphabetinvestmentReport.ipynb
 
 Project Output
 
 The primary output of this project is the Jupyter Notebook:
 
-Alphabet_Investment_Analysis.ipynb
+AlphabetinvestmentReport.ipynb
 
 The notebook contains the Python code, calculations, visualizations and analytical results used in the investment research report.
 
