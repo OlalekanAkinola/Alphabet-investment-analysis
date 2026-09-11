@@ -109,6 +109,11 @@ Olalekan Akinola
 
 Investment Research | Financial Analysis | Python
 
+- [GitHub Profile](https://github.com/OlalekanAkinola)
+
+- [LinkedIn](https://www.linkedin.com/in/olalekan-akinola)
+
+- [Lemm Financials](https://olalekanakinola.substack.com/)
 ⸻
 
 This project is part of an ongoing investment research series focused on applying quantitative analysis and Python to publicly traded companies.
